@@ -1,6 +1,10 @@
 # Tarea-4
 DIEGO ALEXANDER ERAZO SILVA
 ## Objetivos 
+### Objetivos generales
+El análisis de circuitos en serie-paralelo requiere el uso de la ley de Ohm, las leyes del voltaje y de la
+corriente de Kirchhoff, y los métodos para determinar resistencia total y potencia que fueron estudiados en los últimos dos capítulos.
+### Objetivos especificos
 - Analizar de qué manera el valor de un resistor de carga conectado a un potenciómetro afecta el voltaje de salida.
 - Calcular los efectos de carga de un voltímetro o un amperímetro cuando se usan para medir el voltaje o la corriente en algún circuito.
 - Convertir una fuente de corriente en una fuente de voltaje equivalente.
