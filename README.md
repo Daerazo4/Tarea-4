@@ -16,11 +16,12 @@ corriente de Kirchhoff, y los métodos para determinar resistencia total y poten
 - Determinar el voltaje o la corriente en cualquier elemento de una red de puente.
 - Usar PSpice y Multisim para analizar circuitos de múltiples lazos.
 ## 2.	MARCO TEORICO
-### Capítulo 7
 
+![La red en serie-paralelo](https://user-images.githubusercontent.com/84425276/125489854-7ebae040-b2d8-41b4-8c0f-b249cbe67cdd.png)
 
-### Capitulo 8
+![Análisis de circuitos en serie-paralelo](https://user-images.githubusercontent.com/84425276/125489906-9261f68c-c2f1-46e9-b8fe-86f1ef0b9554.png)
 
+![Análisis de corriente de rama](https://user-images.githubusercontent.com/84425276/125489985-79a9fd75-01dc-446b-9324-7f6840058480.png)
 
 ## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
 
